@@ -50,3 +50,32 @@
   display:inline;
   padding-left: 30px;
 }
+
+.box1 {
+  background-color: orange;
+  font-family: monospace;
+  font-size: 14px;
+  border: 10px dotted black;
+  padding: 10px;
+  margin-right: 10px;
+
+}
+
+.box2 {
+  background-color: purple;
+  font-family: fantasy;
+  font-size: 14px;
+  padding: 10px;
+  border: 10px dashed black;
+  margin-right: 10px;
+
+}
+
+.box3 {
+  background-color: green;
+  font-family: inherit;
+  font-size: 14px;
+  border: 10px solid black;
+  padding: 10px;
+  margin-right: 10px;
+}
